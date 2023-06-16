@@ -1,0 +1,34 @@
+g:
+cd G:\StreamlitNPS\
+
+conda activate streamlit
+
+streamlit run nps.py
+
+
+
+Conta prof.massaki@gmail.com
+GSheet: NPS_v1
+https://docs.google.com/forms/d/e/1FAIpQLSeRz9xdCeMjvDUNEEJtJQxM5vYP9O_p0V6Y0elOJQuPS1Q4QQ/viewform?usp=pp_url&entry.280447386=QUESTION&entry.1586579028=99
+
+Usar este link:
+https://docs.google.com/forms/d/e/1FAIpQLSeRz9xdCeMjvDUNEEJtJQxM5vYP9O_p0V6Y0elOJQuPS1Q4QQ/formResponse?&submit=Submit?usp=pp_url&entry.280447386=QUESTION&entry.1586579028=99
+
+ou
+https://docs.google.com/forms/d/e/1FAIpQLSeRz9xdCeMjvDUNEEJtJQxM5vYP9O_p0V6Y0elOJQuPS1Q4QQ/formResponse?&submit=Submit?usp=pp_url
+&entry.280447386=QUESTION
+&entry.1586579028=99
+
+
+
+
+
+
+
+python -m pip install streamlit
+
+python -m streamlit hello
+
+python -m streamlit run app.py
+
+pip install streamlit --upgrade
